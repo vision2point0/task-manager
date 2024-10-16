@@ -2,8 +2,8 @@
 
 This is a simple Task Management Application where users can add, view, and delete tasks. The application consists of two main parts:
 
-Backend API: Built with Node.js and Prisma ORM for managing tasks.
-Frontend Application: Built with React (using Vite) to interact with the API.
+- Backend API: Built with Node.js and Prisma ORM for managing tasks.
+- Frontend Application: Built with React (using Vite) to interact with the API.
 
 ### Features
 
